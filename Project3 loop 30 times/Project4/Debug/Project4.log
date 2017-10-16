@@ -1,0 +1,7 @@
+﻿  Source.cpp
+\\shr-student-p01\high schools\allen high school\2018\250537\documents\visual studio 2015\projects\project4\project4\source.cpp(58): error C2143: syntax error: missing ';' before '<<'
+\\shr-student-p01\high schools\allen high school\2018\250537\documents\visual studio 2015\projects\project4\project4\source.cpp(58): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\shr-student-p01\high schools\allen high school\2018\250537\documents\visual studio 2015\projects\project4\project4\source.cpp(60): error C2059: syntax error: 'while'
+\\shr-student-p01\high schools\allen high school\2018\250537\documents\visual studio 2015\projects\project4\project4\source.cpp(66): error C2143: syntax error: missing ';' before '>>'
+\\shr-student-p01\high schools\allen high school\2018\250537\documents\visual studio 2015\projects\project4\project4\source.cpp(66): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\shr-student-p01\high schools\allen high school\2018\250537\documents\visual studio 2015\projects\project4\project4\source.cpp(68): error C2059: syntax error: 'while'
